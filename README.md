@@ -1,6 +1,6 @@
 <h1 align="center">Filtro Turma 41 (Spark Ar)
                                                  
-<h4 align="center">Filtro do Instagram desenvolvido para a Turma 41 da Generation Brasil, frases escolhidas pelos alunos. Feito com Canva e Spark Ar. 
+<h4 align="center">Filtro do Instagram desenvolvido para a Turma 41 da Generation Brasil, frases escolhidas pelos alunos. Feito com Canva e Spark AR Studio (v127.0). 
  
 <h2 align="center">
 <img src="https://media.giphy.com/media/qqhNWqknxHBvfDL0iV/giphy.gif" height="150" width="500"/>
